@@ -10,10 +10,9 @@ print(word)
 
 number=13
 word="lizi"
-print(number+word)
+print(number + word)
 #არ გამოვა რადგან ერთი ტექსტური მონაცემია ხოლო მეორე რიცხვული
 
 
-print(5 + 5)
+print( 5 + 5 )
 print("5" + "5")
-# პირველში integer ებია და შესრულდება მოქმედება ხოლო მეორეში sring ები .
